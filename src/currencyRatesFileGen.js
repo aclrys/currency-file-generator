@@ -13,7 +13,7 @@ const {runCommand} = require('./shell.js');
 
 const {GITHUB_TOKEN, GITHUB_USERNAME, GITHUB_EMAIL} = process.env;
 // leaving this without https:// in order to reuse it when adding the remote
-const gitRepositoryURL = 'github.com/prebid/currency-file.git';
+const gitRepositoryURL = 'github.com/aclrys/currency-file.git';
 const repositoryName = 'currency-file';
 const PURGE_URL = 'https://purge.jsdelivr.net/gh/prebid/currency-file@1/latest.json';
 const fromCurrencies = ['USD', 'GBP'];

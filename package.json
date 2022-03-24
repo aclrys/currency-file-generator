@@ -7,11 +7,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prebid/currency-file-generator.git"
+    "url": "git+https://github.com/aclrys/currency-file-generator.git"
   },
   "author": "Prebid.js Contributors",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/prebid/currency-file-generator#readme",
+  "homepage": "https://github.com/aclrys/currency-file-generator#readme",
   "engines": {
     "node": ">=7.6.0"
   },

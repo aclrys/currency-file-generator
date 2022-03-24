@@ -5,7 +5,7 @@ The S3 file is published to <http://currency.prebid.org/latest.json>.
 The github file is hosted at <https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json>.
 
 ### Install
-    $ git clone https://github.com/prebid/currency-file-generator.git
+    $ git clone https://github.com/aclrys/currency-file-generator.git
     $ cd currency-file-generator
     $ npm install
         
